@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.exe
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.deps.json
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.runtimeconfig.json
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.runtimeconfig.dev.json
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.dll
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\ref\Flappy Bird.dll
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\bin\Debug\net5.0-windows\Flappy Bird.pdb
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird_MarkupCompile.cache
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird_MarkupCompile.lref
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.g.resources
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.AssemblyInfo.cs
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.dll
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\ref\Flappy Bird.dll
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.pdb
+C:\Users\User\source\repos\C_Sharp\Flappy Bird\Flappy Bird\obj\Debug\net5.0-windows\Flappy Bird.genruntimeconfig.cache
